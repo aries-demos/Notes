@@ -21,4 +21,7 @@ Step代表一个具体的步骤。
 JobRepository是存储数据的地方，可以看做是一个数据库的接口，在任务执行的时候需要通过它来记录任务状态等信息。
 ```
 
-更多的使用介绍及Demo：[大数据批处理框架 Spring Batch全面解析](http://blog.csdn.net/huojiao2006/article/details/54287098)
+更多的使用介绍及Demo：
+
+[大数据批处理框架 Spring Batch全面解析](http://blog.csdn.net/huojiao2006/article/details/54287098)
+[Spring Batch 批处理框架介绍](http://www.importnew.com/26177.html)
