@@ -24,9 +24,11 @@ Linux下Oracle环境变量设置
 export ORACLE_SID=helowin
 export ORACLE_HOME=/home/oracle/app/oracle/product/11.2.0/dbhome_2
 export PATH=$ORACLE_HOME/bin:$PATH
+这样就可以在oracle用户下输入sqlplus进入命令行客户端啦。
 ```
 
 注意：刚启动的容器没有用户名和密码，system的用户也不能使用（不知道为什么）。刚开始很疑惑怎么使用？
+
 [Oracle默认的用户及密码](http://blog.csdn.net/catchmybreath123/article/details/30744099)
 
 ```
